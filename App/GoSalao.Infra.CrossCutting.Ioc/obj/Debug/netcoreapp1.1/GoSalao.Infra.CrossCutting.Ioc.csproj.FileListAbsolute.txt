@@ -1,0 +1,7 @@
+D:\Projects\Go Salão - Back\App\GoSalao.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp1.1\GoSalao.Infra.CrossCutting.Ioc.deps.json
+D:\Projects\Go Salão - Back\App\GoSalao.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp1.1\GoSalao.Infra.CrossCutting.Ioc.dll
+D:\Projects\Go Salão - Back\App\GoSalao.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp1.1\GoSalao.Infra.CrossCutting.Ioc.csprojResolveAssemblyReference.cache
+D:\Projects\Go Salão - Back\App\GoSalao.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp1.1\GoSalao.Infra.CrossCutting.Ioc.AssemblyInfo.cs
+D:\Projects\Go Salão - Back\App\GoSalao.Infra.CrossCutting.Ioc\bin\Debug\netcoreapp1.1\GoSalao.Infra.CrossCutting.Ioc.pdb
+D:\Projects\Go Salão - Back\App\GoSalao.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp1.1\GoSalao.Infra.CrossCutting.Ioc.dll
+D:\Projects\Go Salão - Back\App\GoSalao.Infra.CrossCutting.Ioc\obj\Debug\netcoreapp1.1\GoSalao.Infra.CrossCutting.Ioc.pdb
